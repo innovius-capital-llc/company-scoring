@@ -1,0 +1,18 @@
+{
+  "image": "149536460887.dkr.ecr.us-east-2.amazonaws.com/company-scoring:latest",
+  "vcpus": 4,
+  "memory": 10240,
+  "command": ["python", "/app/company_scoring.py"],
+  "jobRoleArn": "arn:aws:iam::149536460887:role/AWSBatchExecutionRole",
+  "executionRoleArn": "arn:aws:iam::149536460887:role/AWSBatchExecutionRole",
+  "networkConfiguration": {
+    "assignPublicIp": "ENABLED"
+  },
+  "fargatePlatformConfiguration": {
+    "platformVersion": "LATEST"
+  },
+  "runtimePlatform": {
+    "cpuArchitecture": "X86_64",
+    "operatingSystemFamily": "LINUX"
+  }
+}

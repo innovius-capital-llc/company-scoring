@@ -1,0 +1,9 @@
+boto3
+botocore
+numpy
+pandas
+pytz
+requests
+scikit-learn
+tqdm
+xgboost
