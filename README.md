@@ -1,6 +1,6 @@
 # Company Scoring Backend - AWS Batch Deployment Guide
 
-Welcome to the Company Scoring project! This guide will walk you through the complete process of updating the Python script, packaging it as a Docker image, pushing it to AWS, and submitting it as a job to AWS Batch.
+Welcome to Athena's Company Scoring module! This guide will walk you through the complete process of updating the Python script, packaging it as a Docker image, pushing it to AWS, and submitting it as a job to AWS Batch.
 
 ## 📋 Prerequisites
 
