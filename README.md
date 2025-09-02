@@ -222,5 +222,3 @@ If you encounter issues:
 4. Ask your team lead for assistance with AWS permissions or configuration
 
 ---
-
-**Happy coding! 🚀**
